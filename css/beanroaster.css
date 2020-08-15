@@ -1,11 +1,11 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-}
+
 
 header {
     background-color: BlanchedAlmond;
     text-align: center;
 	width:622px;
+	padding-top: 10px;
+	padding-bottom: 3px;
 }
 
 h1 {
@@ -25,15 +25,17 @@ p {
 
 footer {
 	width:622px;
-	background-color: BlanchedAlmond;
+	background-color: Pink;
 }
 
 #fullpage { 
-    background: #8c7165;
+    background: #3c1361;
     color: white;
     border-radius: 1em;
     padding: 1em;
     position: absolute;
+	margin-top: 5%;
+	margin-bottom: 5%;
     top: 50%;
     left: 50%;
     margin-right: -50%;
